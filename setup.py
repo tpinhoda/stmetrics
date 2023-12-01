@@ -15,7 +15,7 @@ setuptools.setup(
     packages=['stmetrics'],
     install_requires=[
     'scipy',
-    'sklearn',
+    'scikit-learn',
     'pandas',
     'numpy',
     'matplotlib',
